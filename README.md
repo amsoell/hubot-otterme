@@ -1,31 +1,31 @@
-# hubot-pugme
+# hubot-otterme
 
-Pugme is the most important hubot script
+Otterme is the second most important hubot script
 
-See [`src/pugme.coffee`](src/pugme.coffee) for full documentation.
+See [`src/otterme.coffee`](src/otterme.coffee) for full documentation.
 
 ## Installation
 
 In hubot project repo, run:
 
-`npm install hubot-pugme --save`
+`npm install hubot-otterme --save`
 
-Then add **hubot-pugme** to your `external-scripts.json`:
+Then add **hubot-otterme** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-pugme"
+  "hubot-otterme"
 ]
 ```
 
 ## Sample Interaction
 
 ```
-user1>> hubot pug me
-hubot>> http://30.media.tumblr.com/tumblr_lj50gs8rAX1qaa50yo1_500.jpg
-user1>> hubot pug bomb me
-hubot>> http://30.media.tumblr.com/tumblr_lj50gs8rAX1qaa50yo1_500.jpg
-hubot>> http://24.media.tumblr.com/95a84579fa297844891b3ab1a5c76c0a/tumblr_mooibbcKl51rylzllo1_500.jpg
-hubot>> http://27.media.tumblr.com/tumblr_ll5akuIrji1qk3h3co1_500.png
-hubot>> http://29.media.tumblr.com/tumblr_ll3xcmS6Bh1qb08qmo1_500.jpg
+user1>> hubot otter me
+hubot>> http://dl.dropbox.com/u/14236910/otters/848px-LutraCanadensis_fullres.jpg
+user1>> hubot otter bomb me
+hubot>> http://i.imgur.com/Oslos.gif
+hubot>> http://i.imgur.com/fPP4S.jpg
+hubot>> http://i.imgur.com/Osoof.jpg
+hubot>> http://dl.dropbox.com/u/14236910/otters/enhanced-buzz-440-1305902425-8.jpg
 ```

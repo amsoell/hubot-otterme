@@ -1,16 +1,16 @@
 {
-  "name": "hubot-pugme",
-  "description": "Pugme is the most important hubot script",
+  "name": "hubot-otterme",
+  "description": "Otterme is the most important hubot script",
   "version": "0.1.0",
-  "author": "Josh Nichols <technicalpickles@github.com>",
+  "author": "Andy Soell <andy@teamsoell.com>",
   "license": "MIT",
-  "keywords": "hubot, hubot-scripts, pugs",
+  "keywords": "hubot, hubot-scripts, otters",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-pugme.git"
+    "url": "git://github.com/amsoell/hubot-otterme.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-pugme/issues"
+    "url": "https://github.com/amsoell/hubot-otterme/issues"
   },
   "dependencies": {},
   "peerDependencies": {

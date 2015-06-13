@@ -23,9 +23,4 @@ Then add **hubot-otterme** to your `external-scripts.json`:
 ```
 user1>> hubot otter me
 hubot>> http://dl.dropbox.com/u/14236910/otters/848px-LutraCanadensis_fullres.jpg
-user1>> hubot otter bomb me
-hubot>> http://i.imgur.com/Oslos.gif
-hubot>> http://i.imgur.com/fPP4S.jpg
-hubot>> http://i.imgur.com/Osoof.jpg
-hubot>> http://dl.dropbox.com/u/14236910/otters/enhanced-buzz-440-1305902425-8.jpg
 ```
